@@ -55,3 +55,5 @@ nunit-*.xml
 .idea
 packages
 *.user
+nuget.exe
+CLAUDE.md
